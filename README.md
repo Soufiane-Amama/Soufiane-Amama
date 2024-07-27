@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" alt="Coding" />
+</p>
+
+
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Soufiane Amama
 </h1>
@@ -10,6 +15,7 @@
 <h3 align="center">A passionate Full-Stack JavaScript Engineer from Algeria | Expert in React, Node.js, and MongoDB | Building Scalable Web Applications | Open to New Opportunities 🚀</h3>
 
 <h4 align="center">As a passionate web developer, my goal is to continually expand my knowledge and skills in this field, push my boundaries and strive for excellence. I am committed to using my technical expertise and creativity to deliver effective projects and solutions. Ultimately, I aspire to play a major role in enhancing the technology landscape and contributing to its growth.</h4>
+
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
