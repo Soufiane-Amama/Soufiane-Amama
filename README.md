@@ -9,7 +9,10 @@
 
 <h3 align="center">A passionate Full-Stack JavaScript Engineer from Algeria | Expert in React, Node.js, and MongoDB | Building Scalable Web Applications | Open to New Opportunities 🚀</h3>
 
-##
+<h4 align="center">As a passionate web developer, my goal is to continually expand my knowledge and skills in this field, push my boundaries and strive for excellence. I am committed to using my technical expertise and creativity to deliver effective projects and solutions. Ultimately, I aspire to play a major role in enhancing the technology landscape and contributing to its growth.</h4>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 - 🌱 I’m currently learning **"Application Development using JavaScript" course at Hassoub Academy - 69 hours of training videos**
 
@@ -39,12 +42,19 @@
 <br>
 
 ## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/soufiane_amama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/soufiane_amama" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/soufiane-amama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soufiane-amama/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100094819833359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100094819833359" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/soufiane_amama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/soufiane_amama" height="30" width="40" /></a>
-<a href = 'https://github.com/Soufiane-Amama'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-</p>
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soufiane-Amama)
+[![Gmail](https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amamasoufian@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sifo_Amama)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hero_sifo)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100094819833359)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soufiane-amama)
+[![Codeforces](https://img.shields.io/badge/Codeforces-00A0FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Soufiane_Amama)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Soufiane_amama)
+
+
+![](https://komarev.com/ghpvc/?username=Soufiane-Amama)
+
+
+<h5 align="center">Made With ❤️ by Me </h5>
 
